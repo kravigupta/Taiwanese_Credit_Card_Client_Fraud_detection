@@ -1,9 +1,10 @@
 # Taiwanese Credit Card Client Fraud detection
 
-Abstract: This research aimed at the case of customersâ€™ default payments in Taiwan and compares the predictive accuracy of probability of default among six data mining methods.
+## Abstract: 
+This research aimed at the case of customersâ€™ default payments in Taiwan and compares the predictive accuracy of probability of default among six data mining methods.
 
 
-Source:
+## Source:
 
 Name: I-Cheng Yeh 
 email addresses: (1) icyeh '@' chu.edu.tw (2) 140910 '@' mail.tku.edu.tw 
